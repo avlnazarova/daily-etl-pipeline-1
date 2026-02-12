@@ -9,7 +9,7 @@ It is designed to be modular, easy to maintain, and suitable for automation work
 ## 🗂 Project Structure
 
 ```
-daily-etl--pipeline-1/
+daily-etl-pipeline-1/
 │
 ├── data/
 │   ├── input/            # Daily CSV files
@@ -30,8 +30,8 @@ daily-etl--pipeline-1/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/daily-etl--pipeline-1.git
-cd daily-etl--pipeline-1
+git clone https://github.com/yourusername/daily-etl-pipeline-1.git
+cd daily-etl-pipeline-1
 ```
 
 ### 2. Create and activate a virtual environment
