@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.env
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Other
+hsautomation
+contacts_for_hubspot.csv
